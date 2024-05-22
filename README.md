@@ -1,0 +1,2 @@
+# HKU_BEng_COMP3297_SoftwareEngineeringCheatSheat
+COMP3297Resources CheatSheet, help the next students
